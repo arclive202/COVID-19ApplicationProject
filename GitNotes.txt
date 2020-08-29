@@ -1,3 +1,2 @@
-Working with branches
-https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
+I will be using this file to store external useful and addtitional Git related notes that I find for my use.
 

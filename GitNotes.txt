@@ -1,2 +1,4 @@
 I will be using this file to store external useful and addtitional Git related notes that I find for my use.
 
+How to push a newly created branch to remote
+https://devconnected.com/how-to-push-git-branch-to-remote/#:~:text=In%20order%20to%20push%20a,branch%20name%20to%20be%20pushed.&text=If%20you%20are%20not%20already,to%20switch%20to%20your%20branch.

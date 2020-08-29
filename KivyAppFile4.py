@@ -1,4 +1,4 @@
-#FROM KIVYAPPFILE4 WE WILL WORK WITH SCHEDULING TASKS FUNCTIONS AND METHODS
+#FROM KIVYAPPFILE4 WE WILL WORK WITH BUILDING OUT THE CHAT PAGE
 
 #You will be importing the client socket py file here and make use of its function to establish connection.
 
